@@ -11,3 +11,5 @@ To run this application:
 ```
 flask --debug run
 ```
+pip freeze > requirements.txt
+pip install -r requirements.txt
